@@ -1,7 +1,7 @@
 # ads-supported
 Convince users to disable adblock when browsing your site with this insanely simple anti ad blocking solution.
 
-## Only proceed if you know what you're doing and after you have followed the 3 steps here: https://lugassy.net **
+## Only proceed if you know what you're doing and after you have [followed the 3 steps here.](https://lugassy.net/anti-adblock-can-it-be-that-simple-df71914aa075)
 
 ### Installation:
 1. Change your CDN or **assets hostname** to point to _ads.yourdomain.com_ or _ads.supported.yourdomain.com_ (i.e _cdn.sendasgift.com_ would become _ads.sendasgift.com_ or _ads.supported.sendasgift.com_)

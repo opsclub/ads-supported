@@ -1,7 +1,7 @@
-# ad-supported
+# ads-supported
 Convince users to disable ad-block when browsing your site
 
-## Setup:
+## Setup (only proceed if you know what you're doing!):
 1. Change your CDN or assets hostname to point to ads.yourdomain.com or ads.supported.yourdomain.com (i.e cdn.sendasgift.com would become ads.sendasgift.com or ads.supported.sendasgift.com)
 2. Add the following to your main stylesheet:
 ```css
@@ -17,5 +17,5 @@ Convince users to disable ad-block when browsing your site
 5. Change your application to point all assets to the new hostname
 6. Upload and see the changes
 
-## Sample websites (send me yours and I'll add it):
+## Sample websites (send me yours and I'll add it here):
 * http://sendasgift.com

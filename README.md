@@ -20,5 +20,7 @@ Convince users to disable adblock when browsing your site with this insanely sim
 5. Change your application to point all assets to the new hostname
 6. Upload and see the changes
 
+![Before and After](https://raw.githubusercontent.com/opsclub/ads-supported/master/output_k9JbKf.gif)
+
 ### Sample websites (send me yours and I'll add it here):
 * http://sendasgift.com

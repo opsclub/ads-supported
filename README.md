@@ -2,7 +2,7 @@
 Convince users to disable ad-block when browsing your site
 
 ## Setup (only proceed if you know what you're doing!):
-1. Change your CDN or *assets hostname* to point to _ads.yourdomain.com_ or _ads.supported.yourdomain.com_ (i.e _cdn.sendasgift.com_ would become _ads.sendasgift.com_ or _ads.supported.sendasgift.com_)
+1. Change your CDN or **assets hostname** to point to _ads.yourdomain.com_ or _ads.supported.yourdomain.com_ (i.e _cdn.sendasgift.com_ would become _ads.sendasgift.com_ or _ads.supported.sendasgift.com_)
 2. Add the following to your main stylesheet:
 ```css
 .adblock {display:none;}

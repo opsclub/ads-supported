@@ -1,5 +1,5 @@
 # ads-supported
-Convince users to disable ad-block when browsing your site
+Convince users to disable adblock when browsing your site with this insanely simple anti ad blocking solution.
 
 ## Only proceed if you know what you're doing and after you have followed the 3 steps here: https://lugassy.net **
 

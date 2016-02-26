@@ -1,7 +1,9 @@
 # ads-supported
 Convince users to disable ad-block when browsing your site
 
-## Setup (only proceed if you know what you're doing!):
+**Only proceed if you know what you're doing and after you have followed the 3 steps here: https://lugassy.net **
+
+## Installation:
 1. Change your CDN or **assets hostname** to point to _ads.yourdomain.com_ or _ads.supported.yourdomain.com_ (i.e _cdn.sendasgift.com_ would become _ads.sendasgift.com_ or _ads.supported.sendasgift.com_)
 2. Add the following to your main stylesheet:
 ```css
